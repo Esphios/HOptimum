@@ -1,0 +1,9 @@
+[submodule "hoptimum"]
+	path = hoptimum
+	url = https://github.com/gahammes/hoptimum.git
+[submodule "HOptimumAPI"]
+	path = HOptimumAPI
+	url = https://github.com/Esphios/HOptimumAPI.git
+[submodule "Hoptimum-fechadura"]
+	path = Hoptimum-fechadura
+	url = https://github.com/gnf4rinazzo/Hoptimum-fechadura.git
