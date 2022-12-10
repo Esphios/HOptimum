@@ -7,3 +7,6 @@
 [submodule "hoptimum-app"]
 	path = hoptimum-app
 	url = https://github.com/gahammes/hoptimum-app.git
+[submodule "tcc_plate-recognition"]
+	path = tcc_plate-recognition
+	url = https://github.com/Discord-g/tcc_plate-recognition.git
